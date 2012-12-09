@@ -26,7 +26,7 @@ angular.module('ui.directives').directive('uiAnimate', ['ui.config', '$timeout',
       }
       opts = angular.extend({'class': 'ui-animate'}, options, opts);
 
-      element.addClass(opts['class']);
+      element.addClass(opts['class']); 
       $timeout(function () {
         element.removeClass(opts['class']);
       }, 20, false);
