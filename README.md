@@ -1,5 +1,5 @@
-# AngularUI - The companion suite for AngularJS
-
+# based on AngularUI - The companion suite for AngularJS
+## with a few additions for mathematics educational purposes.
 ***
 
 [![Build Status](https://secure.travis-ci.org/angular-ui/angular-ui.png)](http://travis-ci.org/angular-ui/angular-ui)
